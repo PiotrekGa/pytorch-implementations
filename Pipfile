@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+jupyterlab = "*"
+torch = "*"
+seaborn = "*"
+scikit-learn = "*"
+einops = "*"
+transformers = "*"
+datasets = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
