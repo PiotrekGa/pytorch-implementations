@@ -12,6 +12,7 @@ scikit-learn = "*"
 einops = "*"
 transformers = "*"
 datasets = "*"
+sacremoses = "*"
 
 [dev-packages]
 
